@@ -1,0 +1,28 @@
+.fundo_star{
+    width: 60px;
+    height: 60px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: hsl(213, 19%, 25%);
+    border-radius: 200px;
+
+    
+    
+}
+
+.fundo_nota{
+    width: 60px;
+    height: 60px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: hsl(213, 19%, 25%);
+    border-radius: 200px;
+
+    cursor: pointer;
+}
